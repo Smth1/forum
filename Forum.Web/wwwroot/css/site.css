@@ -33,3 +33,25 @@
         display: none;
     }
 }
+
+.navbar-form .navbar-right {
+    float:right;
+    padding: 0px !important;
+}
+
+.btn .btn-success {
+    background-color:aqua !important;
+}
+
+.container .panel .panel-info .panel-title {
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+
+#theme {
+    border-style: outset;
+    border-color: coral;
+    border-width: 10px;
+    padding: 0px;
+    margin: 20px;
+}
